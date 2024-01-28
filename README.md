@@ -29,14 +29,11 @@ Upon successful execution, the tool will yield a list of dictionaries (if using 
 **How to Use**
 
 Clone the repository to your local machine.
-bash
-Copy code
 git clone https://github.com/your-username/your-repo.git
+------------------------
 Install the required Python libraries.
-bash
-Copy code
 pip install -r requirements.txt
+--------------------------------
 Execute the Python script.
-bash
-Copy code
 python data_migration_tool.py
+--------------------------------

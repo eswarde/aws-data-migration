@@ -1,0 +1,5 @@
+#Required python packages and its versions 
+
+requests 2.31.0
+zipfile 3.2
+boto3 1.34.29
